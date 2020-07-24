@@ -1,0 +1,1 @@
+To run this code is necessary to have openCv library installed at your machine.
